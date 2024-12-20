@@ -1,7 +1,7 @@
 👋 Hi, I'm Jitendra!
 🚀 Aspiring Data Analyst | Problem-Solver | Data Enthusiast
 
-Welcome to my GitHub! I am a certified data analyst with expertise in tools and technologies such as SQL, Python, Power BI, Machine Learning, and Advanced Excel. I recently completed a comprehensive 6-month training program and earned a certification in data analysis from Digital Training Lab, where I gained hands-on experience in analyzing, visualizing, and solving complex data problems.
+Welcome to my GitHub! I am a certified data analyst with expertise in tools and technologies such as SQL, Python, Power BI, Machine Learning, and Advanced Excel. Hands-on experience in analyzing, visualizing, and solving complex data problems.
 
 💻 Technical Skills:
 
